@@ -16,7 +16,7 @@
 #### K-SUM类题目
 | 序号 | 题目                                                         | 难度   | 代码              |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
-| 1    | [Two   Sum    ](https://leetcode.com/problems/two-sum)       | easy   | python、java、c++ |
+| 1    |~ [Two   Sum    ](https://leetcode.com/problems/two-sum)~       | easy   | python、java、c++ |
 | 167  | [Two Sum II - Input array is   sorted    ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy   | python、java、c++ |
 | 15   | [3Sum    ](https://leetcode.com/problems/3sum)               | Medium | python、java、c++ |
 | 16   | [3Sum   Closest    ](https://leetcode.com/problems/3sum-closest) | Medium | python、java、c++ |
