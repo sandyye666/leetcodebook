@@ -62,7 +62,7 @@
 #### 数组排序  
 | 序号         | 题目                                                         | 难度   | 代码              |
 | ------------ | ------------------------------------------------------------ | ------ | ----------------- |
-| 88           | [Merge Sorted Array    ](https://leetcode.com/problems/merge-sorted-array) | Easy   | python、java、c++ |
+| 88           | ~~[Merge Sorted Array    ](https://leetcode.com/problems/merge-sorted-array)~~ | Easy   | python、java、c++ |
 | 75           | [Sort   Colors    ](https://leetcode.com/problems/sort-colors) | Medium | python、java、c++ |
 | 283          | [Move   Zeroes    ](https://leetcode.com/problems/move-zeroes) | Easy   | python、java、c++ |
 | 376          | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | medium | python、java、c++ |
