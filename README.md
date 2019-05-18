@@ -20,7 +20,7 @@
 | 167  | ~~[Two Sum II - Input array is   sorted    ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)~~ | Easy   | python、java、c++ |
 | 15   | ~~[3Sum    ](https://leetcode.com/problems/3sum)~~               | Medium | python、java、c++ |
 | 16   | ~~[3Sum   Closest    ](https://leetcode.com/problems/3sum-closest)~~ | Medium | python、java、c++ |
-| 259  | ~~[3Sum   Smaller    ](https://leetcode.com/problems/3sum-smaller)~~ | Medium | python、java、c++ |
+| 259  | ~~[3Sum   Smaller    ](https://leetcode.com/problems/3sum-smaller)已看解法~~ | Medium | python、java、c++ |
 | 18   | ~~[4Sum    ](https://leetcode.com/problems/4sum)~~               | Medium | python、java、c++ |
 
 
@@ -29,8 +29,8 @@
 | ---- | ------------------------------------------------------------ | ------ | :---------------- |
 | 56   | [Merge   Intervals    ](https://leetcode.com/problems/merge-intervals) | Medium | python、java、c++ |
 | 57   | [Insert   Interval    ](https://leetcode.com/problems/insert-interval) | Hard   | python、java、c++ |
-| 252  | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | easy   | python、java、c++ |
-| 253  | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | medium | python、java、c++ |
+| 252  | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)付费  | easy   | python、java、c++ |
+| 253  | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)付费 | medium | python、java、c++ |
 | 352  | [Data   Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | hard   | python、java、c++ |
 
 #### 子数组类题目
@@ -54,8 +54,8 @@
 #### Rotate类题目 
 | 序号         | 题目                                                         | 难度   | 代码              |
 | ------------ | ------------------------------------------------------------ | ------ | ----------------- |
-| 48           | [Rotate Image    ](https://leetcode.com/problems/rotate-image) | Medium | python、java、c++ |
-| 89           | [Search in Rotated   Sorted Array    ](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | python、java、c++ |
+| 48           | ~~[Rotate Image    ](https://leetcode.com/problems/rotate-image)~~ | Medium | python、java、c++ |
+| 89           | ~~[Search in Rotated   Sorted Array    ](https://leetcode.com/problems/search-in-rotated-sorted-array)~~ | Medium | python、java、c++ |
 | 189          | [Rotate Array    ](https://leetcode.com/problems/rotate-array) | Easy   | python、java、c++ |
 | 81           | [Search in Rotated   Sorted Array II    ](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | Medium | python、java、c++ |
 
