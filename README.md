@@ -56,8 +56,8 @@
 | ------------ | ------------------------------------------------------------ | ------ | ----------------- |
 | 48           | ~~[Rotate Image    ](https://leetcode.com/problems/rotate-image)~~ | Medium | python、java、c++ |
 | 89           | ~~[Search in Rotated   Sorted Array    ](https://leetcode.com/problems/search-in-rotated-sorted-array)~~ | Medium | python、java、c++ |
-| 189          | [Rotate Array    ](https://leetcode.com/problems/rotate-array) | Easy   | python、java、c++ |
-| 81           | [Search in Rotated   Sorted Array II    ](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | Medium | python、java、c++ |
+| 189          | ~~[Rotate Array    ](https://leetcode.com/problems/rotate-array)~~ | Easy   | python、java、c++ |
+| 81           | ~~[Search in Rotated   Sorted Array II    ](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)~~ | Medium | python、java、c++ |
 
 #### 数组排序  
 | 序号         | 题目                                                         | 难度   | 代码              |
