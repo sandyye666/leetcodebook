@@ -184,11 +184,11 @@
 #### 删除类题目                                                              
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
-| 19         | [Remove   Nth Node From End of List    ](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | medium | python、java、c++ |
-| 82         | [Remove   Duplicates from Sorted List II    ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Medium | python、java、c++ |
-| 83         | [Remove   Duplicates from Sorted List    ](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy   | python、java、c++ |
-| 203        | [Remove   Linked List Elements    ](https://leetcode.com/problems/remove-linked-list-elements) | Easy   | python、java、c++ |
-| 237        | [Delete Node   in a Linked List    ](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy   | python、java、c++ |
+| 19         | ~~[Remove   Nth Node From End of List    ](https://leetcode.com/problems/remove-nth-node-from-end-of-list)~~ | medium | python、java、c++ |
+| 82         | ~~[Remove   Duplicates from Sorted List II    ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)~~ | Medium | python、java、c++ |
+| 83         | ~~[Remove   Duplicates from Sorted List    ](https://leetcode.com/problems/remove-duplicates-from-sorted-list)~~ | Easy   | python、java、c++ |
+| 203        | ~~[Remove   Linked List Elements    ](https://leetcode.com/problems/remove-linked-list-elements)~~ | Easy   | python、java、c++ |
+| 237        | ~~[Delete Node   in a Linked List    ](https://leetcode.com/problems/delete-node-in-a-linked-list)~~ | Easy   | python、java、c++ |
 #### 翻转类题目 
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
