@@ -192,10 +192,10 @@
 #### 翻转类题目 
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
-| 25         | [Reverse Nodes   in k-Group    ](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard   | python、java、c++ |
-| 61         | [Rotate   List    ](https://leetcode.com/problems/rotate-list) | Medium | python、java、c++ |
-| 92         | [Reverse   Linked List II    ](https://leetcode.com/problems/reverse-linked-list-ii) | Medium | python、java、c++ |
-| 206        | [Reverse   Linked List    ](https://leetcode.com/problems/reverse-linked-list) | Easy   | python、java、c++ |
+| 25         | ~~[Reverse Nodes   in k-Group    ](https://leetcode.com/problems/reverse-nodes-in-k-group)~~ | Hard   | python、java、c++ |
+| 61         | ~~[Rotate   List    ](https://leetcode.com/problems/rotate-list)~~ | Medium | python、java、c++ |
+| 92         | ~~[Reverse   Linked List II    ](https://leetcode.com/problems/reverse-linked-list-ii)~~ | Medium | python、java、c++ |
+| 206        | ~~[Reverse   Linked List    ](https://leetcode.com/problems/reverse-linked-list)~~ | Easy   | python、java、c++ |
 #### 合并链表   
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
