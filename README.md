@@ -199,10 +199,10 @@
 #### 合并链表   
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
-| 2          | [Add   Two Numbers    ](https://leetcode.com/problems/add-two-numbers) | medium | python、java、c++ |
-| 21         | [Merge   Two Sorted Lists    ](https://leetcode.com/problems/merge-two-sorted-lists) | Easy   | python、java、c++ |
-| 23         | [Merge   k Sorted Lists    ](https://leetcode.com/problems/merge-k-sorted-lists) | Hard   | python、java、c++ |
-| 445        | [Add   Two Numbers II    ](https://leetcode.com/problems/add-two-numbers-ii) | Medium | python、java、c++ |
+| 2          | ~~[Add   Two Numbers    ](https://leetcode.com/problems/add-two-numbers)~~ | medium | python、java、c++ |
+| 21         | ~~[Merge   Two Sorted Lists    ](https://leetcode.com/problems/merge-two-sorted-lists)~~ | Easy   | python、java、c++ |
+| 23         | ~~[Merge   k Sorted Lists    ](https://leetcode.com/problems/merge-k-sorted-lists)~~ | Hard   | python、java、c++ |
+| 445        | ~~[Add   Two Numbers II    ](https://leetcode.com/problems/add-two-numbers-ii)~~ | Medium | python、java、c++ |
 #### 环
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
@@ -212,8 +212,8 @@
 #### 拆分链表
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
-| 725        | [Split Linked   List in Parts    ](https://leetcode.com/problems/split-linked-list-in-parts) | Medium | python、java、c++ |
-| 86         | [Partition   List    ](https://leetcode.com/problems/partition-list) | Medium | python、java、c++ |
+| 725        | ~~[Split Linked   List in Parts    ](https://leetcode.com/problems/split-linked-list-in-parts)~~ | Medium | python、java、c++ |
+| 86         | ~~[Partition   List    ](https://leetcode.com/problems/partition-list)~~ | Medium | python、java、c++ |
 #### 排序链表 
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
