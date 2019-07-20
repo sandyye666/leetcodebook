@@ -206,9 +206,9 @@
 #### 环
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
-| 141        | [Linked   List Cycle    ](https://leetcode.com/problems/linked-list-cycle) | Easy   | python、java、c++ |
-| 142        | [Linked   List Cycle II    ](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | python、java、c++ |
-| 708        | [Insert   into a Cyclic Sorted List    ](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list) | Medium | python、java、c++ |
+| 141        | ~~[Linked   List Cycle    ](https://leetcode.com/problems/linked-list-cycle)~~ | Easy   | python、java、c++ |
+| 142        | ~~[Linked   List Cycle II    ](https://leetcode.com/problems/linked-list-cycle-ii)~~ | Medium | python、java、c++ |
+| 708        | ~~[Insert   into a Cyclic Sorted List    ](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list)~~ | Medium | python、java、c++ |
 #### 拆分链表
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
@@ -217,9 +217,9 @@
 #### 排序链表 
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
-| 143        | [Reorder   List    ](https://leetcode.com/problems/reorder-list) | Medium | python、java、c++ |
-| 147        | [Insertion   Sort List    ](https://leetcode.com/problems/insertion-sort-list) | Medium | python、java、c++ |
-| 148        | [Sort List    ](https://leetcode.com/problems/sort-list)     | Medium | python、java、c++ |
+| 143        | ~~[Reorder   List    ](https://leetcode.com/problems/reorder-list)~~ | Medium | python、java、c++ |
+| 147        | ~~[Insertion   Sort List    ](https://leetcode.com/problems/insertion-sort-list)~~ | Medium | python、java、c++ |
+| 148        | ~~[Sort List    ](https://leetcode.com/problems/sort-list)~~     | Medium | python、java、c++ |
 #### 基础
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
