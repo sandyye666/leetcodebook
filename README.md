@@ -223,18 +223,18 @@
 #### 基础
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
-| 109        | ~~[Convert   Sorted List to Binary Search Tree    ]~~(https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | Medium | python、java、c++ |
-| 138        | ~~[Copy List   with Random Pointer    ]~~(https://leetcode.com/problems/copy-list-with-random-pointer) | Medium |                   |
-| 160        | ~~[Intersection   of Two Linked Lists    ]~~(https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy   | python、java、c++ |
-| 234        | ~~[Palindrome   Linked List    ]~~(https://leetcode.com/problems/palindrome-linked-list) | Easy   | python、java、c++ |
-| 328        | ~~[Odd   Even Linked List    ]~~(https://leetcode.com/problems/odd-even-linked-list) | Medium | python、java、c++ |
+| 109        | ~~[Convert   Sorted List to Binary Search Tree    ](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)~~ | Medium | python、java、c++ |
+| 138        | ~~[Copy List   with Random Pointer    ](https://leetcode.com/problems/copy-list-with-random-pointer)~~ | Medium |                   |
+| 160        | ~~[Intersection   of Two Linked Lists    ](https://leetcode.com/problems/intersection-of-two-linked-lists)~~ | Easy   | python、java、c++ |
+| 234        | ~~[Palindrome   Linked List    ](https://leetcode.com/problems/palindrome-linked-list)~~ | Easy   | python、java、c++ |
+| 328        | ~~[Odd   Even Linked List    ](https://leetcode.com/problems/odd-even-linked-list)~~ | Medium | python、java、c++ |
 | 369        | [Plus   One Linked List    ](https://leetcode.com/problems/plus-one-linked-list) | Medium | python、java、c++ |
 | 379        | [Design   Phone Directory    ](https://leetcode.com/problems/design-phone-directory) | Medium | python、java、c++ |
-| 426        | ~~[Convert   Binary Search Tree to Sorted Doubly Linked List    ]~~(https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) | Medium | python、java、c++ |
+| 426        | ~~[Convert   Binary Search Tree to Sorted Doubly Linked List    ](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)~~ | Medium | python、java、c++ |
 | 430        | [Flatten   a Multilevel Doubly Linked List    ](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | Medium | python、java、c++ |
-| 707        | ~~[Design   Linked List    ]~~(https://leetcode.com/problems/design-linked-list) | Easy   | python、java、c++ |
-| 817        | ~~[Linked   List Components    ]~~(https://leetcode.com/problems/linked-list-components) | Medium | python、java、c++ |
-| 876        | ~~[Middle of the   Linked List    ]~~(https://leetcode.com/problems/middle-of-the-linked-list) | Easy   | python、java、c++ |
+| 707        | ~~[Design   Linked List    ](https://leetcode.com/problems/design-linked-list)~~ | Easy   | python、java、c++ |
+| 817        | ~~[Linked   List Components    ](https://leetcode.com/problems/linked-list-components)~~ | Medium | python、java、c++ |
+| 876        | ~~[Middle of the   Linked List    ](https://leetcode.com/problems/middle-of-the-linked-list)~~ | Easy   | python、java、c++ |
 
 
 
